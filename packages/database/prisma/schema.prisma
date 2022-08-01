@@ -10,6 +10,7 @@ datasource db {
 generator client {
   provider = "prisma-client-js"
   previewFeatures = ["referentialIntegrity"]
+  output = "../generated/prisma-client"
 }
 
 model User {
