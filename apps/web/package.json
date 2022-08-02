@@ -20,6 +20,7 @@
     "config": "*",
     "database": "*",
     "eslint": "^7.32.0",
+    "string-replace-loader": "^3.1.0",
     "tsconfig": "*",
     "typescript": "^4.5.3"
   }
